@@ -161,4 +161,5 @@ function newQuote() {
   $("#text").css({ color: randomColor });
   $("#author").css({ color: randomColor });
   $("#tweet-quote").css({ color: randomColor });
+  $("#facebook").css({ color: randomColor });
 }
