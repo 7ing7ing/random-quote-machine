@@ -1,5 +1,15 @@
-# random-quote-machine
-Random quote machine
+# Random quote machine
 
-Webpage that changes the quote everytime we click. 
-jQuery was used to change the color of the background at the same time as the quote.
+:page_facing_up:Description:
+
+- A website that generates random quotes everytime the "New quote" button is clicked. The font colour and the background color changes at the same time as the quotes.
+
+
+:wrench:Technologies used:
+
+- HTML, CSS, Javascript.
+- jQuery.
+
+
+:link:Link:
+- https://7ing7ing.github.io/random-quote-machine/
